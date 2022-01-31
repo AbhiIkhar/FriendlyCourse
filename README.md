@@ -1,1 +1,1 @@
-#FriendlyCourse app is built in Flutter and Dart.
+FriendlyCourse app is built in Flutter and Dart.
