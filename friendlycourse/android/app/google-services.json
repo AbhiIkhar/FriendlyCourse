@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363576051731",
+    "project_id": "courseapp-55b2c",
+    "storage_bucket": "courseapp-55b2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363576051731:android:2ccee9c889603a512957e6",
+        "android_client_info": {
+          "package_name": "com.example.friendlycourse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363576051731-4dp2ok4hifs3mmqga6lt1cupg8sa1fv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWjx4bxOQbyYHH6yiTWPFg1NEUL_PrC2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363576051731-4dp2ok4hifs3mmqga6lt1cupg8sa1fv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
