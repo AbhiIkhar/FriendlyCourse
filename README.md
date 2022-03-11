@@ -25,7 +25,7 @@
             <li>Search Page</li>
             <li>Drawer Screen</li>
         </ul>
-        <img src="/login_page.jpeg" alt="myimg" width="8vw" height="8vh">
+        <img src="/login_page.jpeg" alt="myimg" width="20vw" height="20vh">
         <h4>Login Page</h4>
         <hr>
         <img src="" alt="myimg2">
