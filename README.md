@@ -25,17 +25,20 @@
             <li>Search Page</li>
             <li>Drawer Screen</li>
         </ul>
-        <img src="/login_page.jpeg" alt="myimg" width="8%" height="10%">
+        <img src="/login_page.jpeg" alt="myimg" width="12%" height="15%">
         <h4>Login Page</h4>
         <hr>
-        <img src="" alt="myimg2">
+        <img src="/home_page.jpeg" alt="myimg2" width="12%" height="15%">
         <h4>Home Page</h4>
         <hr>
-        <img src="" alt="myimg3">
+        <img src="/search_page.jpeg" alt="myimg3" width="12%" height="15%">
         <h4>Search Page</h4>
         <hr>
-        <img src="" alt="myimg3">
+        <img src="/drawer_page.jpeg" alt="myimg3" width="12%" height="15%">
         <h4>Drawer Page</h4>
+        <hr>
+        <img src="/video_page.jpeg" alt="myimg3" width="12%" height="15%">
+        <h4>Video Page</h4>
         </div>
 </body>
 </html>
